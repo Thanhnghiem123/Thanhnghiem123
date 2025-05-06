@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nghiem</h1>
 <h3 align="center">A software engineering from Vietnam</h3>
 
-- 🔭 I’m currently working on [SpaceOfWarships](https://github.com/Thanhnghiem123/SpaceOfWarships.git)
+- 🔭 I’m currently working on [Nightmare Drift](https://github.com/Thanhnghiem123/NightmareDrift)
 
-- 🌱 I’m currently learning **frameworks like Unity and courses such as "Game Development with Unity."**
+- 🌱 **I’m currently learning**: Diving deep into **Unity** and exploring advanced topics such as:
+  - **Code Optimization**: Enhancing game performance through efficient C# scripting, memory management, and runtime optimization techniques.
+  - **Clean Code Practices**: Writing maintainable, readable, and modular code by applying principles like SOLID and DRY.
+  - **Animation Systems**: Mastering Unity’s Animator, state machines, and rigging to create smooth, dynamic character movements for immersive gameplay.
+  - **Game Design Patterns**: Utilizing patterns like Object Pooling, Factory, and Observer to streamline and scale development workflows.
+  - **NavMesh and AI Pathfinding**: Leveraging NavMeshAgent, NavMeshSurface, and dynamic obstacles to craft intelligent enemy behaviors, such as zombies navigating eerie, dark environments.
 
-- 🤝 I’m looking for help with **Dark Hallways**
+- 🤝 I’m looking for help with **Nightmare Drift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thanhnghiem123](https://github.com/Thanhnghiem123)
 
-- 💬 Ask me about **Unity: My experience with Unity's 2D and 3D game development tools, including physics, animation, and scene management. C#: How I use C# for scripting in Unity, working with MonoBehaviour, handling events, and optimizing game performance.**
+- 💬 **Ask me about**:
+  - **Unity**: My hands-on experience crafting 2D and 3D games, leveraging physics (Rigidbody, Colliders), animation (Animator, state machines), scene management, and NavMesh for intelligent AI pathfinding in dark, immersive environments.
+  - **C#**: Writing robust scripts in Unity with MonoBehaviour, handling events, and optimizing performance through clean code practices, design patterns (Object Pooling, Factory), and efficient memory management.
 
 - 📫 How to reach me **thanhnghiem199@gmail.com**
 
