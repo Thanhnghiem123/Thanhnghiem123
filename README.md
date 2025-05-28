@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nghiem</h1>
 <h3 align="center">A software engineering from Vietnam</h3>
 
-- 🔭 I’m currently working on [Nightmare Drift](https://github.com/Thanhnghiem123/NightmareDrift)
+- 🔭 I’m currently working on [Co-op Survival](https://github.com/Thanhnghiem123/NightmareDrift)
 
 - 🌱 **I’m currently learning**: Diving deep into **Unity** and exploring advanced topics such as:
   - **Code Optimization**: Enhancing game performance through efficient C# scripting, memory management, and runtime optimization techniques.
@@ -10,7 +10,7 @@
   - **Game Design Patterns**: Utilizing patterns like Object Pooling, Factory, and Observer to streamline and scale development workflows.
   - **NavMesh and AI Pathfinding**: Leveraging NavMeshAgent, NavMeshSurface, and dynamic obstacles to craft intelligent enemy behaviors, such as zombies navigating eerie, dark environments.
 
-- 🤝 I’m looking for help with **Nightmare Drift**
+- 🤝 I’m looking for help with **Co-op Survival**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thanhnghiem123](https://github.com/Thanhnghiem123)
 
