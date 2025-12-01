@@ -83,20 +83,21 @@ A cooperative survival game where players fight against waves of enemies using:
 ---
 
 ## 🌐 Connect with me  
-<a href="https://www.facebook.com/nghiem.nguyenthanh.7946/" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-       alt="Facebook"
-       height="40" width="40"
-       style="margin-right: 20px;" />
-</a>
-
-<a href="https://www.instagram.com/nghieem.2512/" target="_blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-       alt="Instagram"
-       height="40" width="40" />
-</a>
+<p align="left">
+  <a href="https://www.facebook.com/nghiem.nguyenthanh.7946/" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="Facebook"
+         width="48"
+         style="margin-right: 20px;" />
+  </a>
+  
+  <a href="https://www.instagram.com/nghieem.2512/" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="Instagram"
+         width="48" />
+  </a>
 
 </p>
 
