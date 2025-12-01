@@ -104,6 +104,63 @@ A cooperative survival game where players fight against waves of enemies using:
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,java,spring,html,git,github,react,nodejs,mongodb,mysql,sqlite,blender,figma" />
+
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unity" width="48"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" width="48"/>
+  </a>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" width="48"/>
+  </a>
+
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" width="48"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="48"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+  </a>
+
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="48"/>
+  </a>
+
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=blender" width="48"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" width="48"/>
+  </a>
+
 </p>
+
 
